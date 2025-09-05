@@ -1,0 +1,27 @@
+Volatility 3 Framework 2.26.2
+
+..LdrModules
+
+Pid	Process	Base	InLoad	InInit	InMem	MappedPath
+
+..cmdline
+
+PID	Process	Args
+
+172051	ߘ	-
+
+..dlllist
+
+PID	Process	Base	Size	Name	Path	LoadTime	File output
+
+..handles 
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+..hollowps
+
+PID	Process	Notes
+
+
+
+
